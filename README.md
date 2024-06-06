@@ -9,3 +9,5 @@ iPhone with A12 Bionic CPU and later running iOS 16
 
 Installation - 
 Build and Run using Xcode 14 and iOS 16 devices with A12 Bionic CPU and later
+
+![Blue Modern Project Presentation](https://github.com/Tharusha-dot/Live-Barcode-QRcode-and-Text-scanner/assets/171985983/7bfa3f03-12d6-4d7e-a102-071fff7a6eb1)
